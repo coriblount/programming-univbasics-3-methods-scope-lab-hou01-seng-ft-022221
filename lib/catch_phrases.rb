@@ -9,7 +9,11 @@ def toadstool
 end
 
 def link
-  link = 
+  link = It's Dangerous To Go Alone! Take This
+  puts link
+end
+
+
 def all_phrases
   mario
   toadstool
